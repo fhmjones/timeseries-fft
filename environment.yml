@@ -5,8 +5,8 @@ channels:
 dependencies:
   - python=3.9.*
   - pandas
-  - numpy
   - matplotlib
+  - numpy
+  - scipy
   - plotly
-  - jupyter=1.*
   - pip
