@@ -8,6 +8,5 @@ dependencies:
   - numpy
   - matplotlib
   - plotly
-  - scypi
   - jupyter=1.*
   - pip
